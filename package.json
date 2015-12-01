@@ -1,0 +1,22 @@
+{
+  "name": "metalsmith-nunjucks",
+  "version": "0.0.1",
+  "description": "metalsmith nunjuncks plugin",
+  "main": "lib/index.js",
+  "keywords": [
+    "metalsmith",
+    "nunjuncks",
+    "template",
+    "layout",
+    "partial"
+  ],
+  "engine": {
+    "node": "4.x"
+  },
+  "author": "Luiz Bills <luizpbills@gmail.com> (http://luizbills.about.me/)",
+  "license": "MIT",
+  "dependencies": {
+    "minimatch": "3.0.0",
+    "nunjucks": "2.2.0"
+  }
+}
